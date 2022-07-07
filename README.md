@@ -13,9 +13,8 @@ Find information above for running tests
    npm install
    ```
    - Install Cypress 10.3.0 version using:
-     npm install cypress
    ```
-
+   npm install cypress
    ```
 
 ### Running Tests
